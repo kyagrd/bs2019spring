@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## bs2019spring
+창업의이해(01분반) 홈페이지
 
-You can use the [editor on GitHub](https://github.com/kyagrd/bs2019spring/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Pass/Fail 평가 과목이며
+담당교수는 여러분들의 팀별 활동을 관리하고 도와주기만 하고 발표 후 최종 결과물 팀별 보고서를 본부에 제출해야 Pass가 됩니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 수업에 사용할 소프트웨어
+[Jandi](https://bs2019spring.jandi.com/)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kyagrd/bs2019spring/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[HiClass](https://hiclass.hannam.ac.kr/courses/5896)
